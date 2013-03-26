@@ -14,7 +14,7 @@
  },
  "name": "HarlemShakeTension",
  "description": "Shake the sites like you never shaked them before",
- "homepage_url": "http://github.com/piscis",
+ "homepage_url": "http://github.com/piscis/chrome-harlem-shake-extension",
  "icons": {
      "16": "assets/icon-16.png",
      "48": "assets/icon-48.png",
@@ -25,6 +25,6 @@
      "https://*/*"
  ],
  "version": "1.0",
- "update_url": "http://piscis.testdrive.cc/chrome-harlem-shake-extension/build/updates.xml",
+ "update_url": "http://piscis.testdrive.cc/chrome-harlem-shake-extension/release/updates.xml",
  "manifest_version": 2
 }
