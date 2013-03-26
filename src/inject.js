@@ -6,7 +6,6 @@
 
       $(document).hshakeify({
         onEnd: function(){
-          console.log('the end my friend');
         },
         css_file: null,
         audio_file: event.data.audio
