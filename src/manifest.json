@@ -25,6 +25,6 @@
      "https://*/*"
  ],
  "version": "1.0",
- "update_url": "http://piscis.testdrive.cc/chrome-harlem-shake-extension/release/updates.xml",
+ "update_url": "http://piscis.testdrive.cc/chrome-harlem-shake-extension/releases/updates.xml",
  "manifest_version": 2
 }
